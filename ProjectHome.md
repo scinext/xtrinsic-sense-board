@@ -1,0 +1,2 @@
+This project provides a Java-based driver for the Xtrinsic Sense Board (http://www.element14.com/community/community/designcenter/mems-sensor-board).
+The Xtrinsic Sense Board is an evaluation board for Freescale sensors that measure motion, altitude, pressure, temperature, as well as detection of magnetic fields and physical position. Each board features an accelerometer, pressure sensor and a magnetometer and works with a broad array of host boards including the Raspberry Pi.
